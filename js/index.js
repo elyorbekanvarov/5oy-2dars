@@ -1,21 +1,3 @@
-// function User(name, age, phone, email) {
-//     this.name = name;
-//     this.age = age;
-//     this.phone = phone;
-//     this.email = email;
-// }
-// let john = new User("John", 45, '+43123', "john@gmail.com");
-// console.log(john);
-
-// let user = {
-//     name: 'John',
-//     age: 45,
-//     address: {
-//         city: "Tashkent",
-//     }
-// }
-// console.log(user.address?.city);
-
 // 2 - masala
 
 // function boshXarfiniKattaQil(arg) {
