@@ -82,3 +82,5 @@
 // }
 // let test = "salom";
 // console.log(strReverse(test));
+
+// konspekt: https://docs.google.com/document/d/1bRsoEMWh0MyybA3p13U7Bjcs2rTSc3VVlnFzNwpdqq0/edit?usp=sharing
